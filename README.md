@@ -16,7 +16,7 @@
 
 - 🎓 B.E. in **Electronics and Communication Engineering** @ Dr. N.G.P. Institute of Technology, Coimbatore (2023 – 2027)
 - 🔌 I love the space where **hardware circuits meet software logic**
-- 🌱 Currently exploring **AI/ML, IoT, and Embedded Systems**
+- 🌱 Currently exploring **java, html, and DBMS**
 - 🛠️ Hands-on with **PCB Design**, **Wireless Sensor Networks (WSN)**, and microcontroller-based systems
 - 🤝 Joint Treasurer, **IETE Student Forum** — leading events and coordinating with the Department Association
 - 💡 I enjoy turning ideas into working prototypes — from smart dustbins to firefighting robots
